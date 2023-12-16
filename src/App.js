@@ -4,7 +4,7 @@ import "./App.css"
 import Header from './components/Header'
 import PokeCard from './components/PokeCard'
 
-console.log("Hello world")
+console.log("Hello world");
 
 class App extends Component {
   constructor() {
